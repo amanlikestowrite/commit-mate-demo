@@ -1,0 +1,14 @@
+{
+  "name": "commit-mate-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A small demo of the published Commit Mate npm package.",
+  "scripts": {
+    "demo": "node index.js",
+    "commit-mate": "commit-mate"
+  },
+  "dependencies": {
+    "@amanlikestowrite/commit-mate": "^0.1.0"
+  }
+}
